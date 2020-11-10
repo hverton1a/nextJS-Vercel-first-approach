@@ -1,0 +1,26 @@
+{
+  "name": "nextJS-Vercel-first-approach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hverton1a/nextJS-Vercel-first-approach.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hverton1a/nextJS-Vercel-first-approach/issues"
+  },
+  "homepage": "https://github.com/hverton1a/nextJS-Vercel-first-approach#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
