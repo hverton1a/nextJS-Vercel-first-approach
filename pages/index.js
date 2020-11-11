@@ -7,7 +7,8 @@ const Hello =()=>{
 
 function Home(){
     return     <div> 
-         <h2>Home {Contador.contador}</h2>
+         <h2>Fui eu que fiz Nelci!</h2>
+         <h3>Ainda é copiado mas é de coração.</h3>
          <Contador />
          </div>
 }
