@@ -1,10 +1,5 @@
 import{useState} from 'react';
 
-
-const Hello =()=>{
-    return (<h2>Hello World</h2>)
-}
-
 function Home(){
     return     <div> 
          <h2>Fui eu que fiz Nelci!</h2>
