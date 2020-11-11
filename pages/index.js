@@ -8,7 +8,7 @@ const Hello =()=>{
 function Home(){
     return     <div> 
          <h2>Fui eu que fiz Nelci!</h2>
-         <h3>Ainda é copiado mas é de coração.</h3>
+         <h3>Teste de Branching e de PullRequest</h3>
          <Contador />
          </div>
 }
