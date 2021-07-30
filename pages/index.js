@@ -8,7 +8,7 @@ const Hello =()=>{
 function Home(){
     return     <div> 
          <h1>Primeiro deploy Vercel!</h1>
-         <h2>Ainda é copiado mas é de coração.</h2>
+         <h2>Testes com usestate para que o usuario atualize um pequeno contador.</h2>
          <Contador />
          </div>
 }
