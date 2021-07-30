@@ -2,13 +2,13 @@ import{useState} from 'react';
 
 
 const Hello =()=>{
-    return (<h2>Hello World</h2>)
+    return (<h2>React App/Git/Vercel</h2>)
 }
 
 function Home(){
     return     <div> 
-         <h2>Fui eu que fiz Nelci!</h2>
-         <h3>Ainda é copiado mas é de coração.</h3>
+         <h1>Primeiro deploy Vercel!</h1>
+         <h2>Ainda é copiado mas é de coração.</h2>
          <Contador />
          </div>
 }
